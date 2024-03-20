@@ -4,4 +4,4 @@
 
 ## ESLint
 
-- For Set of rules for coding
+- Set of rules for coding
